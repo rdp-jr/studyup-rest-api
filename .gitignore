@@ -1,0 +1,6 @@
+venv
+.vscode 
+api/__pycache__
+api/resources/__pycache__
+api/database.db 
+test.py
